@@ -1,1 +1,3 @@
-# estructura-de-datos-1-de-2
+## ESTRUCTURA DE DATOS
+### semestre 3
+### Aracely Maribel Quintanilla R.
