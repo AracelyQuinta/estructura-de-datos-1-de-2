@@ -24,3 +24,4 @@ Se definen clases que representan figuras geométricas y se calculan sus propied
 El archivo `Program.cs` contiene el método `Main`, que es el punto de entrada del programa.  
 Ejemplo de ejecución:
 
+<img width="591" height="317" alt="image" src="https://github.com/user-attachments/assets/5e1686f8-c152-4b7b-9064-2ab4d797849e" />
