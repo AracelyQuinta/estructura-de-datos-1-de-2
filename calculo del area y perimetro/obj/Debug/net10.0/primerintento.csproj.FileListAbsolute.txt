@@ -1,0 +1,14 @@
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\bin\Debug\net10.0\primerintento.exe
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\bin\Debug\net10.0\primerintento.deps.json
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\bin\Debug\net10.0\primerintento.runtimeconfig.json
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\bin\Debug\net10.0\primerintento.dll
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\bin\Debug\net10.0\primerintento.pdb
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\obj\Debug\net10.0\primerintento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\obj\Debug\net10.0\primerintento.AssemblyInfoInputs.cache
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\obj\Debug\net10.0\primerintento.AssemblyInfo.cs
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\obj\Debug\net10.0\primerintento.csproj.CoreCompileInputs.cache
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\obj\Debug\net10.0\primerintento.dll
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\obj\Debug\net10.0\refint\primerintento.dll
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\obj\Debug\net10.0\primerintento.pdb
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\obj\Debug\net10.0\primerintento.genruntimeconfig.cache
+C:\Users\HP - i5\OneDrive\Documentos\estructura_de_datos\primerintento\obj\Debug\net10.0\ref\primerintento.dll
