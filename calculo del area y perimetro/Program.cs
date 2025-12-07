@@ -1,4 +1,4 @@
-﻿// Definimos el espacio de nombres donde estarán nuestras clases
+// Definimos el espacio de nombres donde estarán nuestras clases
 namespace estructura_de_datos
 {
     // Clase principal del programa
