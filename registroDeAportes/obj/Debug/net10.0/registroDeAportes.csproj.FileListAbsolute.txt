@@ -1,0 +1,14 @@
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\obj\Debug\net10.0\registroDeAportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\obj\Debug\net10.0\registroDeAportes.AssemblyInfoInputs.cache
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\obj\Debug\net10.0\registroDeAportes.AssemblyInfo.cs
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\obj\Debug\net10.0\registroDeAportes.csproj.CoreCompileInputs.cache
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\bin\Debug\net10.0\registroDeAportes.exe
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\bin\Debug\net10.0\registroDeAportes.deps.json
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\bin\Debug\net10.0\registroDeAportes.runtimeconfig.json
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\bin\Debug\net10.0\registroDeAportes.dll
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\bin\Debug\net10.0\registroDeAportes.pdb
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\obj\Debug\net10.0\registroDeAportes.dll
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\obj\Debug\net10.0\refint\registroDeAportes.dll
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\obj\Debug\net10.0\registroDeAportes.pdb
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\obj\Debug\net10.0\registroDeAportes.genruntimeconfig.cache
+C:\Users\quiar\Downloads\visualcode3s\registroDeAportes\obj\Debug\net10.0\ref\registroDeAportes.dll
