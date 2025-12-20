@@ -9,7 +9,7 @@ class Program
         detalleAporte[] registros = new detalleAporte[5];
         RegistroFinanciero[] montos = new RegistroFinanciero[5];
 
-        // Registro 1
+        // Registro 1 se guarda la información del aporte y el monto correspondiente.
         registros[0] = new detalleAporte("2024-10-01", "Juan Perez", "Aporte mensual");
         montos[0] = new RegistroFinanciero(20.00);
 
@@ -29,10 +29,13 @@ class Program
         registros[4] = new detalleAporte("2024-10-05", "Luis Martinez", "Aporte mensual");
         montos[4] = new RegistroFinanciero(20.00);
 
-        // Reportería
+        // Reportería: imprime encabezados de la tabla.
+
         Console.WriteLine("Fecha        | Nombre         | Concepto           |  Monto");
         Console.WriteLine("----------------------------------------------------------");
 
+
+       //Recorre los registros y muestra cada aporte con su monto en formato tabular.
         for (int i = 0; i < registros.Length; i++)
         {
             Console.WriteLine($"{registros[i].fecha,-12} | {registros[i].nombre,-14} | {registros[i].conceptodeaporte,-18} | {montos[i].MontoAbonado,6}");
@@ -44,6 +47,9 @@ class Program
         {
             total += montos[i].MontoAbonado;
         }
+        // Imprime el total de aportes.
+
         Console.WriteLine($"\nTotal de aportes: {total}");
     }
 }
+
