@@ -1,0 +1,15 @@
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.exe
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.deps.json
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.runtimeconfig.json
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.dll
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\bin\Debug\net10.0\TorresDeHanoi.pdb
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.AssemblyInfoInputs.cache
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.AssemblyInfo.cs
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.csproj.CoreCompileInputs.cache
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.sourcelink.json
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.dll
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\refint\TorresDeHanoi.dll
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.pdb
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\TorresDeHanoi.genruntimeconfig.cache
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\TorresDeHanoi\obj\Debug\net10.0\ref\TorresDeHanoi.dll

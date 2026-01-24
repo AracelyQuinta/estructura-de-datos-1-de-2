@@ -1,0 +1,15 @@
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\ejercicio1.AssemblyInfo.cs
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\ejercicio1.sourcelink.json
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\bin\Debug\net10.0\ejercicio1.exe
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\bin\Debug\net10.0\ejercicio1.deps.json
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\bin\Debug\net10.0\ejercicio1.runtimeconfig.json
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\bin\Debug\net10.0\ejercicio1.dll
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\bin\Debug\net10.0\ejercicio1.pdb
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\ejercicio1.dll
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\refint\ejercicio1.dll
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\ejercicio1.pdb
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\ejercicio1.genruntimeconfig.cache
+C:\Users\quiar\Documents\estructura-de-datos-1-de-2\tareaSemana9\ejercicio1\obj\Debug\net10.0\ref\ejercicio1.dll
