@@ -1,0 +1,14 @@
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\bin\Debug\net10.0\TareaWeek10.exe
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\bin\Debug\net10.0\TareaWeek10.deps.json
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\bin\Debug\net10.0\TareaWeek10.runtimeconfig.json
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\bin\Debug\net10.0\TareaWeek10.dll
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\bin\Debug\net10.0\TareaWeek10.pdb
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\obj\Debug\net10.0\TareaWeek10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\obj\Debug\net10.0\TareaWeek10.AssemblyInfoInputs.cache
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\obj\Debug\net10.0\TareaWeek10.AssemblyInfo.cs
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\obj\Debug\net10.0\TareaWeek10.csproj.CoreCompileInputs.cache
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\obj\Debug\net10.0\TareaWeek10.dll
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\obj\Debug\net10.0\refint\TareaWeek10.dll
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\obj\Debug\net10.0\TareaWeek10.pdb
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\obj\Debug\net10.0\TareaWeek10.genruntimeconfig.cache
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\TareaWeek10\obj\Debug\net10.0\ref\TareaWeek10.dll
