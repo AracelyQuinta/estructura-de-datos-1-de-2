@@ -1,0 +1,14 @@
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\bin\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.exe
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\bin\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.deps.json
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\bin\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.runtimeconfig.json
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\bin\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.dll
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\bin\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.pdb
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\obj\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\obj\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.AssemblyInfoInputs.cache
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\obj\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.AssemblyInfo.cs
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\obj\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.csproj.CoreCompileInputs.cache
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\obj\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.dll
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\obj\Debug\net10.0\refint\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.dll
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\obj\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.pdb
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\obj\Debug\net10.0\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.genruntimeconfig.cache
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos\obj\Debug\net10.0\ref\CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CPE_U3_Sistema_de_registro_de_jugadores_y_equipos/1.0.0": {
+        "runtime": {
+          "CPE_U3_Sistema_de_registro_de_jugadores_y_equipos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPE_U3_Sistema_de_registro_de_jugadores_y_equipos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
