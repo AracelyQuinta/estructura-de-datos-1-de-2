@@ -1,0 +1,14 @@
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\bin\Debug\net8.0-windows\BST_Visual.exe
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\bin\Debug\net8.0-windows\BST_Visual.deps.json
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\bin\Debug\net8.0-windows\BST_Visual.runtimeconfig.json
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\bin\Debug\net8.0-windows\BST_Visual.dll
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\bin\Debug\net8.0-windows\BST_Visual.pdb
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\obj\Debug\net8.0-windows\BST_Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\obj\Debug\net8.0-windows\BST_Visual.AssemblyInfoInputs.cache
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\obj\Debug\net8.0-windows\BST_Visual.AssemblyInfo.cs
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\obj\Debug\net8.0-windows\BST_Visual.csproj.CoreCompileInputs.cache
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\obj\Debug\net8.0-windows\BST_Visual.dll
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\obj\Debug\net8.0-windows\refint\BST_Visual.dll
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\obj\Debug\net8.0-windows\BST_Visual.pdb
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\obj\Debug\net8.0-windows\BST_Visual.genruntimeconfig.cache
+C:\Users\mar\Documents\ESTRUCTURA DE DATOS PARCIAL 2\BST_Visual\obj\Debug\net8.0-windows\ref\BST_Visual.dll
